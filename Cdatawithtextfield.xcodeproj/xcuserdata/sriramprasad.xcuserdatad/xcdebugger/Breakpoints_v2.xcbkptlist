@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cdatawithtextfield/ViewController.swift"
+            timestampString = "563098843.175796"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cdatawithtextfield.ViewController.namesArray.getter : Swift.Array&lt;__C.NSManagedObject&gt;"
+                  moduleName = "Cdatawithtextfield"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift"
+                  timestampString = "563098374.518978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cdatawithtextfield.ViewController.namesArray.setter : Swift.Array&lt;__C.NSManagedObject&gt;"
+                  moduleName = "Cdatawithtextfield"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift"
+                  timestampString = "563098374.533607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cdatawithtextfield.ViewController.init(style: __C.UITableViewStyle) -&gt; Cdatawithtextfield.ViewController"
+                  moduleName = "Cdatawithtextfield"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift"
+                  timestampString = "563098374.536338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cdatawithtextfield.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Cdatawithtextfield.ViewController"
+                  moduleName = "Cdatawithtextfield"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift"
+                  timestampString = "563098374.538952"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Cdatawithtextfield.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Cdatawithtextfield.ViewController&gt;"
+                  moduleName = "Cdatawithtextfield"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift"
+                  timestampString = "563098374.541649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cdatawithtextfield/ViewController.swift"
+            timestampString = "563098843.176733"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "save(enteredText:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cdatawithtextfield/ViewController.swift"
+            timestampString = "563098843.17731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cdatawithtextfield/ViewController.swift"
+            timestampString = "563098843.17785"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cdatawithtextfield/ViewController.swift"
+            timestampString = "563098843.178255"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "alertContoller()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

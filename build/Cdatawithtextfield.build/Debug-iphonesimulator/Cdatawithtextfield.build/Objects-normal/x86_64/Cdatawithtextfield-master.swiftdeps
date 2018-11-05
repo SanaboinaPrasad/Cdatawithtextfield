@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "13c43357faa7dbfa9dcb313de6acaf70"
+build_time: [1541406035, 249087000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/ViewController.swift": [1541406033, 0]
+  "/Users/sriramprasad/Dev/rough/Cdatawithtextfield/Cdatawithtextfield/AppDelegate.swift": [1541402546, 0]
+  "/Users/sriramprasad/Dev/rough/Cdatawithtextfield/build/Cdatawithtextfield.build/Debug-iphonesimulator/Cdatawithtextfield.build/DerivedSources/CoreDataGenerated/Cdatawithtextfield/ListArrray+CoreDataClass.swift": [1541406035, 0]
+  "/Users/sriramprasad/Dev/rough/Cdatawithtextfield/build/Cdatawithtextfield.build/Debug-iphonesimulator/Cdatawithtextfield.build/DerivedSources/CoreDataGenerated/Cdatawithtextfield/ListArrray+CoreDataProperties.swift": [1541406035, 0]
+  "/Users/sriramprasad/Dev/rough/Cdatawithtextfield/build/Cdatawithtextfield.build/Debug-iphonesimulator/Cdatawithtextfield.build/DerivedSources/CoreDataGenerated/Cdatawithtextfield/Cdatawithtextfield+CoreDataModel.swift": [1541406035, 0]
